@@ -17,3 +17,9 @@ Highlights:
 
 ## CHAT HISTORY AND MORE CONVERSATIONS
 ![chat](https://github.com/atharvadumbre/LangChain-RAG-pdf/assets/59522832/9f5f6e75-fe05-436a-9c65-29792d747ee0)
+
+# HOW TO RUN:
+1. Create a ".env" file and put your huggingface token after the following:
+   HUGGINGFACEHUB_API_TOKEN={ENTER YOUR TOKEN HERE}
+2. To run enter the following in the terminal:
+   streamlit run app.py
